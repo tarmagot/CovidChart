@@ -1,5 +1,7 @@
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
+deploy https://chartdynamic.web.app/?fbclid=IwAR2QwNQZivSYAaqeB3EHcVpyGLGyZfP1ru14elr5RZM5TMo5RH288CBWQug
+
 ## Available Scripts
 
 In the project directory, you can run:
