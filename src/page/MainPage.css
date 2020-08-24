@@ -1,0 +1,10 @@
+.mainpage {
+  text-align: center;
+  border-width: 3rem;
+  border-color: teal;
+}
+.title {
+  color: rgb(32, 32, 32);
+  font-size: 2rem;
+  background-color: yellow;
+}

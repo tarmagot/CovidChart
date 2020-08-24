@@ -8555,6 +8555,11 @@ react-dom@^16.13.1:
     prop-types "^15.6.2"
     scheduler "^0.19.1"
 
+react-dynamic-charts@^1.0.5:
+  version "1.0.5"
+  resolved "https://registry.yarnpkg.com/react-dynamic-charts/-/react-dynamic-charts-1.0.5.tgz#54dcc31a32954e0a8ff77533df455673620c92f8"
+  integrity sha512-4IFZnw7hXFK+mg3cIdTu6BE4gCmR+ZzGYYoF7CtyNjfhdSBmbeyRpZitJxUftsmpJEG/H3yVnultoUMyQa/Jzg==
+
 react-error-overlay@^6.0.7:
   version "6.0.7"
   resolved "https://registry.yarnpkg.com/react-error-overlay/-/react-error-overlay-6.0.7.tgz#1dcfb459ab671d53f660a991513cb2f0a0553108"
